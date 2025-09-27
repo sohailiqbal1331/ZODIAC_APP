@@ -48,7 +48,7 @@ def main():
 	if choice == "Home":
 		st.subheader("Home")
 		dob = st.date_input("Date of Birth",
-                    min_value=datetime.date(1990, 1, 1),
+                    min_value=datetime.date(1980, 1, 1),
                     max_value=datetime.date(2090, 12, 31))
 		month_of_birth = st.selectbox("Month",month_list)
 		day_of_birth =  st.number_input("Date",min_value=1,max_value=31)
