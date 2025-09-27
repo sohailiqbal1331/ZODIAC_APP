@@ -38,7 +38,7 @@ def load_data(data):
 	return pd.read_csv(data)
 
 def main():
-	st.title("👉 ستاروں کا حال (Zodiac Knowledge)")
+	st.title(" ستاروں کا حال (Zodiac Knowledge)")
 	st.subheader("Muhammad Sohail Iqbal")
 
 	menu = ["Home","ZodiacBoard","About"]
