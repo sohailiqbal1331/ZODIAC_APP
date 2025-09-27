@@ -15,10 +15,3 @@ Perfect for astrology lovers, curious learners, or anyone exploring their cosmic
 🌌 Daily Horoscope – Fun daily tips and predictions.
 
 🎨 Interactive UI – Clean, responsive interface powered by Streamlit.
-
-🛠 Tech Stack
-Component	Technology
-Frontend/UI	Streamlit
-Backend	Python 3
-Logic	Astrological date ranges & calculations
-Libraries	Pandas, Datetime, Streamlit
