@@ -38,8 +38,8 @@ def load_data(data):
 	return pd.read_csv(data)
 
 def main():
-	st.title("Zodiac App")
-	st.subheader("Coded by: Muhammad Sohail Iqbal")
+	st.title("👉 ستاروں کا حال (Zodiac Knowledge)")
+	st.subheader("Muhammad Sohail Iqbal")
 
 	menu = ["Home","ZodiacBoard","About"]
 	choice = st.sidebar.selectbox("Menu",menu)
